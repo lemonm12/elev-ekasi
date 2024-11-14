@@ -96,7 +96,7 @@ const Programs = () => {
           <input type="text" name="financialBackground" onChange={handleChange} />
         </label>
         
-        <button type="submit">Submit</button>
+        <button type="submit">SUBMIT</button>
       </form>
 
       {showLinks && (
